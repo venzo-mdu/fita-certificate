@@ -1,0 +1,21 @@
+.fita-certificate{
+    background-color: white;
+    height: 900px;
+    width: 800px;
+    padding: 1%;
+}
+.fita-border{
+    border:2px solid rgb(214, 211, 40);
+    height: 900px;
+    width: 800px;
+}
+.top-text{
+    text-align: left;
+    color: black;
+    float: right;
+    margin: 5% 5%;
+}
+.certificate-excellence{
+    color: rgba(22, 22, 22, 0.979);
+    text-align: center;
+}
